@@ -1,22 +1,24 @@
 # PoDGlideSetup
 Path of Diablo Glide Setup and Configuration
 
-╬╬╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╬╬
-║║                                                   ║║
-║║  Diablo 2 / Path of Diablo Setup & Configuration  ║║
-║║          https://www.twitch.tv/retrocro           ║║
-║║                   RetroCro#7154                   ║║
-╬╬╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╬╬
+Path of Diablo Glide Setup and Configuration
+https://www.twitch.tv/retrocro
+Discord: RetroCro#7154
+
 
 1) Install Diablo 2 and Lord of Destruction to your Documents folder (C:\Users\Pepega\Documents\Diablo II) or anywhere besides the default Program Files directory to reduce likelyhood of errors.
 
 2) Install Path of Diablo from: https://github.com/GreenDude120/PoD-Launcher/releases/download/install/pathofdiablolauncher.msi
+
    A) During Installation, click >>Browse<< and make sure you select the folder where you installed Diablo II (C:\Users\Pepega\Documents\Diablo II). The default path is not always correct.
+
    B) Once the install finishes, Start the PoD Launcher. Pick any download site to begin downloading all the mod files. Do not press start Play yet. Exit Launcher.
 
 3) Unhandled Exception: Access_Violation (c0000005) Fix:
    A) https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png
+
    B) https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg
+
    C) Windows Defender Security Center > App & browser control > Exploit protection > Exploit protection settings > You can select the PoD folder to disable it for that folder
 
 4) *** After DEP change you MUST restart ****
@@ -31,12 +33,16 @@ REBOOT!!!!!
 
 6) Setup Glide/3DFX to run D2 in FULLSCREEN BORDERLESS mode (looks best for laptops and 1080p-1440p displays)
    A) Next run glide-init.exe in your PoD folder. If the program starts in German, the second button from last will change it to English.
+
    B) Run the query info first!!!!
    https://cdn.discordapp.com/attachments/724495792257237012/724499351983882260/Guide1.png
+
    C) Then go to Extensions section and select the following (tested with Nvidia GTX 960, 1060 and 1080 Ti
    https://cdn.discordapp.com/attachments/724495792257237012/724499467302076476/Guide2.png
+
    D) Settings Section
    https://cdn.discordapp.com/attachments/724495792257237012/724499527259914260/Guide3.png
+
    E) Renderer
    https://cdn.discordapp.com/attachments/724495792257237012/724499573279555594/Guide4.png
 
