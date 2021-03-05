@@ -62,6 +62,7 @@ REBOOT!!!!!
    If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
    B) Paste the "Filter Link" from the previous step into the Loot Filter Downloader section, enable Auto Update, and Click Download.
    C) Click Play!
+   D) Press **ALT+ENTER** for FULL SCREEN BORDERLESS
    
 9) Enable In Game Inspect Items and Custom Loot Filter:
    A) If you used my glide settings from above you should be able to press ALT+ENTER  when the game starts to enable Full Screen Borderless! 
