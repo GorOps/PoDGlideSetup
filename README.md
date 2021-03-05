@@ -30,25 +30,27 @@ REBOOT!!!!!
 5) Setup D2 to Use 3DFX/Glide graphics
    A) Right click your PoD Launcher shortcut and click Open File Location. 
    B) Run D2VidTest.exe. When it's done select the last option - 3dfx Glide
-   https://cdn.discordapp.com/attachments/715613340675866625/715617619683835924/image.png
+   ![D2VdTest](https://cdn.discordapp.com/attachments/715613340675866625/715617619683835924/image.png)
 
 6) Setup Glide/3DFX to run D2 in FULLSCREEN BORDERLESS mode (looks best for laptops and 1080p-1440p displays)
    A) Next run glide-init.exe in your PoD folder. If the program starts in German, the second button from last will change it to English.
 
    B) Run the query info first!!!!
-   https://cdn.discordapp.com/attachments/724495792257237012/724499351983882260/Guide1.png
+   ![Glide1](https://cdn.discordapp.com/attachments/724495792257237012/724499351983882260/Guide1.png)
 
    C) Then go to Extensions section and select the following (tested with Nvidia GTX 960, 1060 and 1080 Ti
-   https://cdn.discordapp.com/attachments/724495792257237012/724499467302076476/Guide2.png
+   ![Glide2](https://cdn.discordapp.com/attachments/724495792257237012/724499467302076476/Guide2.png)
 
    D) Settings Section
-   https://cdn.discordapp.com/attachments/724495792257237012/724499527259914260/Guide3.png
+   ![Glide3](https://cdn.discordapp.com/attachments/724495792257237012/724499527259914260/Guide3.png)
 
    E) Renderer
-   https://cdn.discordapp.com/attachments/724495792257237012/724499573279555594/Guide4.png
+   ![Glide3](https://cdn.discordapp.com/attachments/724495792257237012/724499573279555594/Guide4.png)
 
    Close/Exit glide-init
-
+   
+===================================
+***OPTIONAL***
 7) ***OPTIONAL***   In Game Loot Sound Filter Setup   ***OPTIONAL***
    A) Right click your PoD Launcher shortcut and click Open File Location
    B) Right click in an empty space and create a folder called data and open it
@@ -62,9 +64,14 @@ REBOOT!!!!!
    A) Go to https://pathofdiablo.com/wiki/index.php?title=List_of_Loot_Filters
    B) Click the "More Info" links for all filters colored green.
    B) Find one you like the most and copy the "Filter Link" for it
+   
+***OPTIONAL***
+===================================
 
 9) PoD Launcher Setup:
-   A) Run the PoD Launcher.exe and set the following options: https://i.imgur.com/PqKTJnm.png. If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
+   A) Run the PoD Launcher.exe and set the following options: ![Launcher](https://i.imgur.com/PqKTJnm.png). 
+   
+   If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
    B) Paste the "Filter Link" from the previous step into the Loot Filter Downloader section, enable Auto Update, and Click Download.
    C) Click Play!
    
