@@ -17,7 +17,7 @@ Discord: RetroCro#7154
 3) Unhandled Exception: Access_Violation (c0000005) Fix:
    A) ![DEP Settings](https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png)
 
-   B) https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg
+   B) ![Setup EXE to Run as Admin](https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg)
 
    C) Windows Defender Security Center > App & browser control > Exploit protection > Exploit protection settings > You can select the PoD folder to disable it for that folder
 
