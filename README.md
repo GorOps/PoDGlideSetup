@@ -15,7 +15,7 @@ Discord: RetroCro#7154
    B) Once the install finishes, Start the PoD Launcher. Pick any download site to begin downloading all the mod files. Do not press start Play yet. Exit Launcher.
 
 3) Unhandled Exception: Access_Violation (c0000005) Fix:
-   A) https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png
+   A) ![DEP Settings](https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png)
 
    B) https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg
 
