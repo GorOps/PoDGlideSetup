@@ -30,6 +30,7 @@ REBOOT!!!!!
 5) Setup D2 to Use 3DFX/Glide graphics
    A) Right click your PoD Launcher shortcut and click Open File Location. 
    B) Run D2VidTest.exe. When it's done select the last option - 3dfx Glide
+   
    ![D2VdTest](https://cdn.discordapp.com/attachments/715613340675866625/715617619683835924/image.png)
 
 6) Setup Glide/3DFX to run D2 in FULLSCREEN BORDERLESS mode (looks best for laptops and 1080p-1440p displays)
