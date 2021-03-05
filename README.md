@@ -36,21 +36,26 @@ REBOOT!!!!!
    A) Next run glide-init.exe in your PoD folder. If the program starts in German, the second button from last will change it to English.
 
    B) Run the query info first!!!!
+   
    ![Glide1](https://cdn.discordapp.com/attachments/724495792257237012/724499351983882260/Guide1.png)
 
    C) Then go to Extensions section and select the following (tested with Nvidia GTX 960, 1060 and 1080 Ti
+   
    ![Glide2](https://cdn.discordapp.com/attachments/724495792257237012/724499467302076476/Guide2.png)
 
    D) Settings Section
+   
    ![Glide3](https://cdn.discordapp.com/attachments/724495792257237012/724499527259914260/Guide3.png)
 
    E) Renderer
+   
    ![Glide3](https://cdn.discordapp.com/attachments/724495792257237012/724499573279555594/Guide4.png)
 
    Close/Exit glide-init
 
 9) PoD Launcher Setup:
    A) Run the PoD Launcher.exe and set the following options: 
+   
    ![Launcher](https://i.imgur.com/PqKTJnm.png). 
    
    If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
