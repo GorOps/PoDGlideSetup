@@ -48,28 +48,10 @@ REBOOT!!!!!
    ![Glide3](https://cdn.discordapp.com/attachments/724495792257237012/724499573279555594/Guide4.png)
 
    Close/Exit glide-init
-   
-===================================
-***OPTIONAL***
-7) ***OPTIONAL***   In Game Loot Sound Filter Setup   ***OPTIONAL***
-   A) Right click your PoD Launcher shortcut and click Open File Location
-   B) Right click in an empty space and create a folder called data and open it
-   C) Right click in an empty space and create a folder called global and open it
-   D) Right click in an empty space and create a folder called sfx and open it
-   E) Right click in an empty space and create a folder called item and open it
-   F) Go to https://pathofdiablo.com/wiki/index.php?title=Loot_SFX and pick a sound loot filter pack to use
-   G) Export the wav files to the item folder. The complete path should look similar to this: https://imgur.com/a/bhIe14b
-
-8) In Game Item Loot Filter:
-   A) Go to https://pathofdiablo.com/wiki/index.php?title=List_of_Loot_Filters
-   B) Click the "More Info" links for all filters colored green.
-   B) Find one you like the most and copy the "Filter Link" for it
-   
-***OPTIONAL***
-===================================
 
 9) PoD Launcher Setup:
-   A) Run the PoD Launcher.exe and set the following options: ![Launcher](https://i.imgur.com/PqKTJnm.png). 
+   A) Run the PoD Launcher.exe and set the following options: 
+   ![Launcher](https://i.imgur.com/PqKTJnm.png). 
    
    If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
    B) Paste the "Filter Link" from the previous step into the Loot Filter Downloader section, enable Auto Update, and Click Download.
