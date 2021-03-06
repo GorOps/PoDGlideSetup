@@ -1,10 +1,12 @@
 # Path of Diablo Glide Graphics Setup & Configuration
-## Path of Diablo Glide Setup and Configuration
-
 
 ### https://www.twitch.tv/retrocro
 ### Discord: RetroCro#7154
 
+1. A numbered list
+   1. A nested numbered list
+   2. Which is numbered
+1. Which is numbered
 
 1. Install Diablo 2 and Lord of Destruction to your Documents folder (C:\Users\Pepega\Documents\Diablo II) or anywhere besides the default Program Files directory to reduce likelyhood of errors.
 
@@ -13,7 +15,7 @@
 
    i) Once the install finishes, Start the PoD Launcher. Pick any download site to begin downloading all the mod files. Do not press start Play yet. Exit Launcher.
 
-3) Unhandled Exception: Access_Violation (c0000005) Fix:
+1. Unhandled Exception: Access_Violation (c0000005) Fix:
    A) 
    ![DEP Settings](https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png)
 
