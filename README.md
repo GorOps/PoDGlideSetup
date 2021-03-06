@@ -12,9 +12,13 @@
    i) Once the install finishes, Right click the PoD Launcher -> Run as Admin. Pick any download site to begin downloading all the mod files. Do not press start Play yet.
 
 1. Unhandled Exception: Access_Violation (c0000005) Fix:
-   1. ![DEP Settings](https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png)
+   1. 
+   
+   ![DEP Settings](https://cdn.discordapp.com/attachments/712065519968190574/712068121208291428/D2-PoD-DEP.png)
 
-   2. ![Setup EXE to Run as Admin](https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg)
+   2. 
+   
+   ![Setup EXE to Run as Admin](https://cdn.discordapp.com/attachments/715078576243736877/715079868261597194/image0.jpg)
 
    3. Windows Defender Security Center > App & browser control > Exploit protection > Exploit protection settings > You can select the PoD folder to disable it for that folder
 
@@ -66,10 +70,3 @@ REBOOT!!!!!
    D) On the Loot Filter Tab, enable the Custom Loot Filter checkbox - https://imgur.com/a/4IJ4qfe
 
    FIN!!!
-   
-`╬╬╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╬╬
-║║                                                   ║║
-║║  Diablo 2 / Path of Diablo Setup & Configuration  ║║
-║║          https://www.twitch.tv/retrocro           ║║
-║║                   RetroCro#7154                   ║║
-╬╬╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╬╬`
