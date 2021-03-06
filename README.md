@@ -1,18 +1,17 @@
-# PoDGlideSetup
-Path of Diablo Glide Setup and Configuration
-
-Path of Diablo Glide Setup and Configuration
-https://www.twitch.tv/retrocro
-Discord: RetroCro#7154
+# Path of Diablo Glide Graphics Setup & Configuration
+## Path of Diablo Glide Setup and Configuration
 
 
-1) Install Diablo 2 and Lord of Destruction to your Documents folder (C:\Users\Pepega\Documents\Diablo II) or anywhere besides the default Program Files directory to reduce likelyhood of errors.
+### https://www.twitch.tv/retrocro
+### Discord: RetroCro#7154
 
-2) Install Path of Diablo from: https://github.com/GreenDude120/PoD-Launcher/releases/download/install/pathofdiablolauncher.msi
 
-   A) During Installation, click >>Browse<< and make sure you select the folder where you installed Diablo II (C:\Users\Pepega\Documents\Diablo II). The default path is not always correct.
+1. Install Diablo 2 and Lord of Destruction to your Documents folder (C:\Users\Pepega\Documents\Diablo II) or anywhere besides the default Program Files directory to reduce likelyhood of errors.
 
-   B) Once the install finishes, Start the PoD Launcher. Pick any download site to begin downloading all the mod files. Do not press start Play yet. Exit Launcher.
+1. Install Path of Diablo from: https://github.com/GreenDude120/PoD-Launcher/releases/download/install/pathofdiablolauncher.msi
+   During Installation, click >>Browse<< and make sure you select the folder where you installed Diablo II (C:\Users\Pepega\Documents\Diablo II). The default path is not always correct.
+
+   i) Once the install finishes, Start the PoD Launcher. Pick any download site to begin downloading all the mod files. Do not press start Play yet. Exit Launcher.
 
 3) Unhandled Exception: Access_Violation (c0000005) Fix:
    A) 
@@ -57,12 +56,10 @@ REBOOT!!!!!
 9) PoD Launcher Setup:
    A) Run the PoD Launcher.exe and set the following options: 
    
-   ![Launcher](https://i.imgur.com/PqKTJnm.png). 
+   ![Launcher](https://cdn.discordapp.com/attachments/775529238014066688/817790457433292840/unknown.png). 
    
-   If you did not setup the sound loot filter, then uncheck advanced and direct!!!!
-   B) Paste the "Filter Link" from the previous step into the Loot Filter Downloader section, enable Auto Update, and Click Download.
-   C) Click Play!
-   D) Press **ALT+ENTER** for FULL SCREEN BORDERLESS
+   B) Click Play!
+   C) Press **ALT+ENTER** for FULL SCREEN BORDERLESS
    
 9) Enable In Game Inspect Items and Custom Loot Filter:
    A) If you used my glide settings from above you should be able to press ALT+ENTER  when the game starts to enable Full Screen Borderless! 
